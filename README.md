@@ -3,7 +3,7 @@
 ## Overview
 Implementation and analysis of the Metropolis algorithm based on 
 Chapter 4 of *MCMC from Scratch* (Hanada & Matsuura, Springer 2022).
-Course project for Advanced Statistical Methods I, BSDS-II, Indian 
+Course project for Advanced Statistical Methods I, BSDS-II(4th semester), Indian 
 Statistical Institute Bangalore (May 2026). Group 11.
 
 ## What's in this repo
